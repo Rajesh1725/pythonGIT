@@ -3,3 +3,5 @@ id-101
 email-Rajesh@gmail.com
 sal:75420
 mob- 8645298405
+Date of Joining:17 jan 2023
+disignation: Data Analyst
